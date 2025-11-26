@@ -30,10 +30,11 @@ Ideal for biostatisticians, statistical programmers, and regulatory teams.
 
 | Section | Screenshot |
 |--------|------------|
-| **Table of Contents + General Info** | ![TOC](https://via.placeholder.com/600x200/e0e0e0/000000?text=TOC+%26+Study+Info) |
+| **Table of Contents** | ![TOC](https://via.placeholder.com/600x200/e0e0e0/000000?text=TOC+%26+Study+Info) |
 | **Analysis Populations Table** | ![Populations](https://via.placeholder.com/600x150/f5f5f5/333333?text=Table+1:+Analysis+Populations) |
-| **Demographics + Safety Table** | ![Demo](https://via.placeholder.com/600x180/f8f9fa/212529?text=Table+2:+Demographics+%26+AEs) |
+| **Demographic Table** | ![Demo](https://via.placeholder.com/600x180/f8f9fa/212529?text=Table+2:+Demographics+%26+AEs) |
 | **Boxplot Figure (Baseline HbA1c)** | ![Figure](https://via.placeholder.com/600x300/ffffff/000000?text=Figure+1:+Baseline+HbA1c+Distribution) |
+| **Adverse Events Table** | ![AE](https://via.placeholder.com/600x300/ffffff/000000?text=Figure+1:+Baseline+HbA1c+Distribution) |
 
 > 🔁 Replace placeholders with actual screenshots from your `.docx` output.
 

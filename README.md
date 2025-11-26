@@ -30,13 +30,11 @@ Ideal for biostatisticians, statistical programmers, and regulatory teams.
 
 | Section | Screenshot |
 |--------|------------|
-| **Table of Contents** | ![TOC](https://via.placeholder.com/600x200/e0e0e0/000000?text=TOC+%26+Study+Info) |
-| **Analysis Populations Table** | ![Populations](https://via.placeholder.com/600x150/f5f5f5/333333?text=Table+1:+Analysis+Populations) |
-| **Demographic Table** | ![Demo](https://via.placeholder.com/600x180/f8f9fa/212529?text=Table+2:+Demographics+%26+AEs) |
-| **Boxplot Figure (Baseline HbA1c)** | ![Figure](https://via.placeholder.com/600x300/ffffff/000000?text=Figure+1:+Baseline+HbA1c+Distribution) |
-| **Adverse Events Table** | ![AE](https://via.placeholder.com/600x300/ffffff/000000?text=Figure+1:+Baseline+HbA1c+Distribution) |
-
-> 🔁 Replace placeholders with actual screenshots from your `.docx` output.
+| **Table of Contents** | ![TOC](sap_template_img1.png) |
+| **Analysis Populations Table** | ![Populations](sap_template_img2.png) |
+| **Demographic Table** | ![Demo](sap_template_img3.png) |
+| **Boxplot Figure (Baseline HbA1c)** | ![Figure](sap_template_img4.png) |
+| **Adverse Events Table** | ![AE](sap_template_img5.png) |
 
 ---
 

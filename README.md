@@ -1,4 +1,4 @@
-# 📊 r-sap-automator  
+# 📊 sap-automator  
 *Automated Statistical Analysis Plan (SAP) Template in R — ICH E9 Compliant*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
